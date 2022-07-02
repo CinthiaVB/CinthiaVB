@@ -23,7 +23,7 @@ const aboutMe = {
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 <samp>
     <p align="center">
-        ════════ ⋆⋆★⋆⋆ ════════ <br>
-        Thanks for visiting 👨‍💻
+        ═════ ⋆⋆★⋆⋆ ═════ <br>
+        Thanks for visiting ⭐️
     </p>
 </samp>
