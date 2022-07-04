@@ -21,6 +21,9 @@ const aboutMe = {
 #### :computer: Tools: 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Trello](https://img.shields.io/badge/-Trello-87CEEB?style=plastic&logo=trello)
+![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=plastic&logo=figma)
+
 <samp>
     <p align="center">
         ═════ ⋆⋆★⋆⋆ ═════ <br>
