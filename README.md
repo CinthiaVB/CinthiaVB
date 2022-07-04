@@ -23,7 +23,6 @@ const aboutMe = {
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/-Trello-004BBA?style=plastic&logo=trello)
 ![Figma](https://img.shields.io/badge/-Figma-634DFF?style=plastic&logo=figma)
-
 <samp>
     <p align="center">
         ═════ ⋆⋆★⋆⋆ ═════ <br>
